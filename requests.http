@@ -1,0 +1,2 @@
+### GET Business Partners
+GET http://localhost:8081/sap/opu/odata/sap/API_BUSINESS_PARTNER/A_BusinessPartner?$format=json
